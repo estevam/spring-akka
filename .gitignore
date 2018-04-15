@@ -1,0 +1,19 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+
+ignore
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+war/
+
+# Maven
+log/
+target/
+.mvn
+
+
+
